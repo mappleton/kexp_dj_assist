@@ -26,7 +26,7 @@ elif current_play['artist'] == 'airbreak':
     in_studios = 'N/A'
     shows = 'N/A'
     videos = 'N/A'
-    current_play['aniversary'] = 'N/A'
+    current_play['anniversary'] = 'N/A'
     
 
 class Window(QWidget):
